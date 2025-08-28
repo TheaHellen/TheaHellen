@@ -1,4 +1,4 @@
-- 🎓 Hi, I’m @TheaHellen, a recent graduate with a first class Master's degree in Mathematics with Statistics
+- 🎓 Hi, I’m Thea, a recent graduate with a first class Master's degree in Mathematics with Statistics
 - 👋 I’m interested in a career in data science or data analysis
 - 💻 I am proficient in Python, R and C++
 - 🌱 I’m currently learning to code in SQL while continuing my work with Deep Neural Networks in Python
