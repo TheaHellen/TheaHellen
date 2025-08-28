@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @TheaHellen, a fourth year MMath student
-- 👀 I’m interested in a career in software engineering and/or data analysis
-- 🌱 I’m currently learning how to code in C++ and how to create Deep Neural Networks in Python
+- 👋 Hi, I’m @TheaHellen, a recent graduate with a first class Master's degree in Mathematics with Statistics
+- 👀 I’m interested in a career in data science
+- 💻 I am proficient in Python, R and C++
+- 🌱 I’m currently learning to code in SQL and continuing my work with Deep Neural Networks in Python
 - 📫 How to reach me: theahellen@gmail.com
 - 😄 Pronouns: she/her
 
